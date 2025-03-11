@@ -1,3 +1,4 @@
+} finally {
 // error processing code
 public static void main(String[] args)
 out = new BufferedWriter(new FileWriter(”filename”, true));
