@@ -1,3 +1,4 @@
+} finally {
 out.close();
 } finally {
 // error processing code
