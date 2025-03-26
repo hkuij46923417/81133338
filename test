@@ -1,3 +1,4 @@
+test.fetch();
 public static void main(String[] args)
 try {
 String password = props.getProperty("db.password");
